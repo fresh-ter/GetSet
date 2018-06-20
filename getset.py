@@ -66,7 +66,6 @@ def work():
 			print("setbyte")
 			print("setaddress")
 			print()
-		#conn.send(i.encode("utf-8"))
 		print()
 
 def server():
@@ -134,7 +133,7 @@ def main():
 		client()
 
 		
-	#t.start()
+	
 	
 
 
